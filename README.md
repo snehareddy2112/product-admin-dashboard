@@ -151,6 +151,3 @@ npm run lint
 ```
 
 ---
-
-## 🤖 AI Tool Usage Transparency
-This project was developed with assistance from Google DeepMind's Antigravity coding assistant to accelerate scaffolding, UI component design, TypeScript typing, and edge-case handling. All business logic, race-condition mitigation, sanitization, and architectural decisions were engineered to adhere to senior frontend best practices.
